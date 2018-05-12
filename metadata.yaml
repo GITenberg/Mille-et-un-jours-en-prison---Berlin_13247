@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4953
     wikipedia: https://en.wikipedia.org/wiki/Henri_S%C3%A9v%C3%A9rin_B%C3%A9land
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13247#Mille-et-un-jours-en-prison---Berlin
 gutenberg_bookshelf:
 - World War I
 - FR La Première Guerre Mondiale, 1914-1918
